@@ -1,2 +1,3 @@
 File for clone1
 Edit from Clone2
+2nd line for clone1
