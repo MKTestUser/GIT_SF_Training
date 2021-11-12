@@ -1,1 +1,2 @@
 File for clone1
+Edit from Clone2
