@@ -1,1 +1,2 @@
 File for clone1
+2nd line for clone1
